@@ -1,0 +1,45 @@
+
+.card {
+    width: 320px;
+    padding: 25px;
+    margin: 30px auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px gray;
+}
+
+.card-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.card-name {
+    color: black;
+    font-size: 24px;
+}
+
+.card-job {
+    color: blue;
+}
+
+.card-text {
+    color: gray;
+    font-size: 16px;
+}
+
+.card h3 {
+    color: darkblue;
+}
+
+.card ul {
+    display: inline-block;
+    text-align: left;
+    color: #444;
+}
+
+.card p {
+    color: #555;
+}
